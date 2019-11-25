@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dandpb/rsxp2019-cicd/issues"
   },
-  "homepage": "https://github.com/dandpb/rsxp2019-cicd#readme"
+  "homepage": "https://github.com/dandpb/rsxp2019-cicd#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
